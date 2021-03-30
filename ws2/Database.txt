@@ -1,0 +1,5 @@
+emil,9704051111,1,0,2,Sailboat,2,0,3,Canoe,1,0,7,Other,4
+måns,999911,4,0,5,Other,2,0,6,Kayak,3
+alex,111,8
+simon,222,10
+albin,33,11
